@@ -1,0 +1,30 @@
+Adrenal: 10.39
+Bladder: 455.745
+Bone: 15.775
+Brain: 45.89
+Breast: 1985.385
+Diaphragm: 50.025
+Gall-bladder: 116.13
+Heart: 42.65
+Kidney: 21.205
+Large Intestine: 65.145
+Liver: 9.68
+Lung: 0.0
+LN (dist): 8.235
+LN (reg): 5.155
+Omentum: 143.815
+Ovary: 1651.435
+Pancreas: 28.14
+Pericardium: 50.985
+Peritoneum: 47.715
+Pleura: 22.37
+Prostate: 465.44
+Skeletal Muscle: 385.18
+Skin: 66.525
+Small Intestine: 105.7
+Spleen: 33.68
+Stomach: 135.35
+Testis: 1951.255
+Thyroid: 43.79
+Uterus: 442.215
+Vagina: 479.41
